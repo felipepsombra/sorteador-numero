@@ -2,7 +2,6 @@
 
 ## 📝 Descrição Geral
 O **Sorteador de Números** é uma aplicação web simples que permite aos usuários gerar números aleatórios dentro de um intervalo específico. Essa ferramenta pode ser útil em diversas situações, como jogos, sorteios, tomadas de decisão, entre outras.
-![image](https://github.com/felipepsombra/sorteador-numero/assets/130610742/52c94770-1fb7-476c-9dd1-68e67364ed79)
 
 ## 🌟 Funcionalidades
 - Gerar números aleatórios dentro de um intervalo especificado pelo usuário.
