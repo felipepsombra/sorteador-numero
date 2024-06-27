@@ -1,16 +1,16 @@
-# Sorteador de Números
+# 🎲 Sorteador de Números
 
-## Descrição Geral
+## 📝 Descrição Geral
 O **Sorteador de Números** é uma aplicação web simples que permite aos usuários gerar números aleatórios dentro de um intervalo específico. Essa ferramenta pode ser útil em diversas situações, como jogos, sorteios, tomadas de decisão, entre outras.
 ![image](https://github.com/felipepsombra/sorteador-numero/assets/130610742/52c94770-1fb7-476c-9dd1-68e67364ed79)
 
-## Funcionalidades
+## 🌟 Funcionalidades
 - Gerar números aleatórios dentro de um intervalo especificado pelo usuário.
 - Verificar a validade dos intervalos e da quantidade de números a serem sorteados.
 - Exibir os números sorteados na tela.
 - Habilitar e desabilitar o botão de reiniciar conforme necessário.
 
-## Como Usar
+## 🔧 Como Usar
 1. Abra o link: [Sorteador de números](https://sorteador-numero-five.vercel.app)
 2. Insira a quantidade de números a serem sorteados.
 3. Especifique o intervalo desejado nos campos "Do número" e "Até o número".
@@ -18,15 +18,9 @@ O **Sorteador de Números** é uma aplicação web simples que permite aos usuá
 5. Os números sorteados serão exibidos na área de resultado.
 6. Clique no botão "Reiniciar" para resetar os campos e realizar um novo sorteio.
 
-## Arquivos no Repositório
-
-- `index.html`: Página principal do site.
-- `style.css`: Estilos CSS para o layout do jogo.
-- `app.js`: Arquivo JavaScript contendo a lógica do site.
-- `img/`: Pasta contendo imagens utilizadas no site.
-
-## Tecnologias Utilizadas
-
-- HTML
-- CSS
-- JavaScript
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
